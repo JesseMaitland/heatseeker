@@ -1,0 +1,18 @@
+auto_index: true
+
+extentions:
+  - .py
+  - .sql
+
+exclude_extentions:
+  - .jpeg
+
+exclude_files:
+  - .gitignore
+  - README.md
+
+exclude_directories:
+  - venv
+
+search_term_files:
+  - terms.txt
